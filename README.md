@@ -1,2 +1,2 @@
-# TXON_01
-This is landing page for Pepsi created as a part of internship in txon.
+# OIBSIP-TASK-1
+This is landing page for Pepsi Shop created as a part of internship in oasis infobyte.
